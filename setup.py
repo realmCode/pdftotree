@@ -11,7 +11,6 @@ setup(
     install_requires=[
         "IPython",
         "beautifulsoup4",
-        "keras>=2.4.0",
         "numpy",
         "pandas",
         "pdfminer.six>=20191020",
